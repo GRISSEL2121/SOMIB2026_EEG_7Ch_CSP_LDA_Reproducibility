@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+CrossValidation_Fold_Metrics.csv
+Table1_Performance_Metrics.csv
+Table1_Performance_Metrics.tex
+Figure2_Metric_Distributions.tif
+Software_Versions.txt
+.DS_Store
